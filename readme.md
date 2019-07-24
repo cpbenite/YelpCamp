@@ -1,5 +1,9 @@
 # Yelp Camp
 
+v1.1.4 Styling Nav and Forms
+* Add a navbar to all templates
+* Style new campground form
+
 v1.1.3 Styling Campgrounds Page
 * Improve the header
 * Make campgrounds display in a grid
