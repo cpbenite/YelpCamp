@@ -1,6 +1,8 @@
 # Yelp Camp
 
-v1.1.3 Styling Campgrounds
+v1.1.3 Styling Campgrounds Page
+* Improve the header
+* Make campgrounds display in a grid
 
 v1.1.2 Creating New Campgrounds
 
