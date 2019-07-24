@@ -1,5 +1,10 @@
 # Yelp Camp
 
+v1.1.6 Show Page
+* Review RESTful routes
+* Add descriptions to campground model
+* Add show route/template
+
 v1.1.5 Connecting to MongoDB
 * Setup campground model
 * Use campground model in routes
