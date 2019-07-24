@@ -1,5 +1,9 @@
 # Yelp Camp
 
+v1.1.5 Connecting to MongoDB
+* Setup campground model
+* Use campground model in routes
+
 v1.1.4 Styling Nav and Forms
 * Add a navbar to all templates
 * Style new campground form
